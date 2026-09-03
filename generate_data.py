@@ -1,19 +1,29 @@
-import pandas as pd
 import numpy as np
+import pandas as pd
 
-# Sample Sales Data Generate karna
 np.random.seed(42)
+
 dates = pd.date_range(start="2025-01-01", periods=100, freq="D")
 products = ["Spectacle Frame", "Blue Light Glasses", "Lens Case"]
 
 data = []
-for date in dates:
-    prod = np.random.choice(products)
-    units_sold = np.random.randint(5, 50)
-    price = 300 if prod == "Spectacle Frame" else (400 if prod == "Blue Light Glasses" else 100)
-    revenue = units_sold * price
-    data.append([date, prod, units_sold, price, revenue])
 
-df = pd.DataFrame(data, columns=["Date", "Product", "Units_Sold", "Price", "Revenue"])
+for product in products:
+    base_sales = np.random.randint(20, 50)
+    for date in dates:
+        noise = np.random.randint(-5, 10)
+        sales = max(5, base_sales + noise)
+        inventory_level = np.random.randint(10, 100)
+
+        data.append(
+            {
+                "Date": date,
+                "Product": product,
+                "Sales": sales,
+                "Stock_Level": inventory_level,
+            }
+        )
+
+df = pd.DataFrame(data)
 df.to_csv("sales_data.csv", index=False)
-print("SUCCESS: sales_data.csv file ban gayi hai!")
+print("✅ New sales_data.csv generated!")

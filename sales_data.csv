@@ -1,0 +1,301 @@
+Date,Product,Sales,Stock_Level
+2025-01-01,Spectacle Frame,24,24
+2025-01-02,Spectacle Frame,31,81
+2025-01-03,Spectacle Frame,33,30
+2025-01-04,Spectacle Frame,27,92
+2025-01-05,Spectacle Frame,27,84
+2025-01-06,Spectacle Frame,31,97
+2025-01-07,Spectacle Frame,25,33
+2025-01-08,Spectacle Frame,23,31
+2025-01-09,Spectacle Frame,25,11
+2025-01-10,Spectacle Frame,28,39
+2025-01-11,Spectacle Frame,26,11
+2025-01-12,Spectacle Frame,32,30
+2025-01-13,Spectacle Frame,21,85
+2025-01-14,Spectacle Frame,30,31
+2025-01-15,Spectacle Frame,33,98
+2025-01-16,Spectacle Frame,21,68
+2025-01-17,Spectacle Frame,35,51
+2025-01-18,Spectacle Frame,32,69
+2025-01-19,Spectacle Frame,35,71
+2025-01-20,Spectacle Frame,34,56
+2025-01-21,Spectacle Frame,34,60
+2025-01-22,Spectacle Frame,32,64
+2025-01-23,Spectacle Frame,24,73
+2025-01-24,Spectacle Frame,29,12
+2025-01-25,Spectacle Frame,25,60
+2025-01-26,Spectacle Frame,27,30
+2025-01-27,Spectacle Frame,29,48
+2025-01-28,Spectacle Frame,22,13
+2025-01-29,Spectacle Frame,29,69
+2025-01-30,Spectacle Frame,34,18
+2025-01-31,Spectacle Frame,30,62
+2025-02-01,Spectacle Frame,22,93
+2025-02-02,Spectacle Frame,32,69
+2025-02-03,Spectacle Frame,27,53
+2025-02-04,Spectacle Frame,33,17
+2025-02-05,Spectacle Frame,35,44
+2025-02-06,Spectacle Frame,34,90
+2025-02-07,Spectacle Frame,24,59
+2025-02-08,Spectacle Frame,28,13
+2025-02-09,Spectacle Frame,22,15
+2025-02-10,Spectacle Frame,26,13
+2025-02-11,Spectacle Frame,26,72
+2025-02-12,Spectacle Frame,22,99
+2025-02-13,Spectacle Frame,32,43
+2025-02-14,Spectacle Frame,30,71
+2025-02-15,Spectacle Frame,24,23
+2025-02-16,Spectacle Frame,35,57
+2025-02-17,Spectacle Frame,35,81
+2025-02-18,Spectacle Frame,34,96
+2025-02-19,Spectacle Frame,32,71
+2025-02-20,Spectacle Frame,28,94
+2025-02-21,Spectacle Frame,33,91
+2025-02-22,Spectacle Frame,35,62
+2025-02-23,Spectacle Frame,28,35
+2025-02-24,Spectacle Frame,29,69
+2025-02-25,Spectacle Frame,32,50
+2025-02-26,Spectacle Frame,33,24
+2025-02-27,Spectacle Frame,33,74
+2025-02-28,Spectacle Frame,29,80
+2025-03-01,Spectacle Frame,29,97
+2025-03-02,Spectacle Frame,21,17
+2025-03-03,Spectacle Frame,28,72
+2025-03-04,Spectacle Frame,31,90
+2025-03-05,Spectacle Frame,28,44
+2025-03-06,Spectacle Frame,23,42
+2025-03-07,Spectacle Frame,31,14
+2025-03-08,Spectacle Frame,30,50
+2025-03-09,Spectacle Frame,32,16
+2025-03-10,Spectacle Frame,29,81
+2025-03-11,Spectacle Frame,32,43
+2025-03-12,Spectacle Frame,21,57
+2025-03-13,Spectacle Frame,27,32
+2025-03-14,Spectacle Frame,34,97
+2025-03-15,Spectacle Frame,25,53
+2025-03-16,Spectacle Frame,28,95
+2025-03-17,Spectacle Frame,31,44
+2025-03-18,Spectacle Frame,21,56
+2025-03-19,Spectacle Frame,34,12
+2025-03-20,Spectacle Frame,21,14
+2025-03-21,Spectacle Frame,30,23
+2025-03-22,Spectacle Frame,27,36
+2025-03-23,Spectacle Frame,29,88
+2025-03-24,Spectacle Frame,35,99
+2025-03-25,Spectacle Frame,30,86
+2025-03-26,Spectacle Frame,23,72
+2025-03-27,Spectacle Frame,27,61
+2025-03-28,Spectacle Frame,33,13
+2025-03-29,Spectacle Frame,34,32
+2025-03-30,Spectacle Frame,27,24
+2025-03-31,Spectacle Frame,31,38
+2025-04-01,Spectacle Frame,24,22
+2025-04-02,Spectacle Frame,27,68
+2025-04-03,Spectacle Frame,23,95
+2025-04-04,Spectacle Frame,32,75
+2025-04-05,Spectacle Frame,30,54
+2025-04-06,Spectacle Frame,34,66
+2025-04-07,Spectacle Frame,25,15
+2025-04-08,Spectacle Frame,32,37
+2025-04-09,Spectacle Frame,32,53
+2025-04-10,Spectacle Frame,24,39
+2025-01-01,Blue Light Glasses,54,98
+2025-01-02,Blue Light Glasses,50,71
+2025-01-03,Blue Light Glasses,44,10
+2025-01-04,Blue Light Glasses,52,36
+2025-01-05,Blue Light Glasses,57,86
+2025-01-06,Blue Light Glasses,52,12
+2025-01-07,Blue Light Glasses,50,79
+2025-01-08,Blue Light Glasses,51,36
+2025-01-09,Blue Light Glasses,52,71
+2025-01-10,Blue Light Glasses,48,60
+2025-01-11,Blue Light Glasses,53,53
+2025-01-12,Blue Light Glasses,51,88
+2025-01-13,Blue Light Glasses,54,41
+2025-01-14,Blue Light Glasses,51,61
+2025-01-15,Blue Light Glasses,44,71
+2025-01-16,Blue Light Glasses,44,67
+2025-01-17,Blue Light Glasses,47,21
+2025-01-18,Blue Light Glasses,57,48
+2025-01-19,Blue Light Glasses,45,12
+2025-01-20,Blue Light Glasses,44,65
+2025-01-21,Blue Light Glasses,44,68
+2025-01-22,Blue Light Glasses,44,11
+2025-01-23,Blue Light Glasses,45,63
+2025-01-24,Blue Light Glasses,50,10
+2025-01-25,Blue Light Glasses,46,11
+2025-01-26,Blue Light Glasses,48,53
+2025-01-27,Blue Light Glasses,53,41
+2025-01-28,Blue Light Glasses,49,41
+2025-01-29,Blue Light Glasses,50,77
+2025-01-30,Blue Light Glasses,50,84
+2025-01-31,Blue Light Glasses,51,26
+2025-02-01,Blue Light Glasses,58,47
+2025-02-02,Blue Light Glasses,51,78
+2025-02-03,Blue Light Glasses,47,79
+2025-02-04,Blue Light Glasses,49,20
+2025-02-05,Blue Light Glasses,58,25
+2025-02-06,Blue Light Glasses,44,82
+2025-02-07,Blue Light Glasses,55,68
+2025-02-08,Blue Light Glasses,49,89
+2025-02-09,Blue Light Glasses,56,12
+2025-02-10,Blue Light Glasses,47,68
+2025-02-11,Blue Light Glasses,47,28
+2025-02-12,Blue Light Glasses,53,76
+2025-02-13,Blue Light Glasses,58,28
+2025-02-14,Blue Light Glasses,47,80
+2025-02-15,Blue Light Glasses,47,42
+2025-02-16,Blue Light Glasses,51,48
+2025-02-17,Blue Light Glasses,45,10
+2025-02-18,Blue Light Glasses,54,66
+2025-02-19,Blue Light Glasses,52,59
+2025-02-20,Blue Light Glasses,50,40
+2025-02-21,Blue Light Glasses,57,51
+2025-02-22,Blue Light Glasses,46,16
+2025-02-23,Blue Light Glasses,55,25
+2025-02-24,Blue Light Glasses,53,69
+2025-02-25,Blue Light Glasses,44,11
+2025-02-26,Blue Light Glasses,44,57
+2025-02-27,Blue Light Glasses,57,21
+2025-02-28,Blue Light Glasses,48,46
+2025-03-01,Blue Light Glasses,54,18
+2025-03-02,Blue Light Glasses,52,28
+2025-03-03,Blue Light Glasses,46,29
+2025-03-04,Blue Light Glasses,51,63
+2025-03-05,Blue Light Glasses,51,42
+2025-03-06,Blue Light Glasses,51,84
+2025-03-07,Blue Light Glasses,44,81
+2025-03-08,Blue Light Glasses,47,47
+2025-03-09,Blue Light Glasses,51,93
+2025-03-10,Blue Light Glasses,57,98
+2025-03-11,Blue Light Glasses,46,34
+2025-03-12,Blue Light Glasses,56,27
+2025-03-13,Blue Light Glasses,57,91
+2025-03-14,Blue Light Glasses,45,63
+2025-03-15,Blue Light Glasses,46,89
+2025-03-16,Blue Light Glasses,56,50
+2025-03-17,Blue Light Glasses,47,42
+2025-03-18,Blue Light Glasses,47,42
+2025-03-19,Blue Light Glasses,57,30
+2025-03-20,Blue Light Glasses,47,17
+2025-03-21,Blue Light Glasses,50,76
+2025-03-22,Blue Light Glasses,44,42
+2025-03-23,Blue Light Glasses,55,68
+2025-03-24,Blue Light Glasses,46,95
+2025-03-25,Blue Light Glasses,50,31
+2025-03-26,Blue Light Glasses,57,39
+2025-03-27,Blue Light Glasses,49,60
+2025-03-28,Blue Light Glasses,49,17
+2025-03-29,Blue Light Glasses,54,36
+2025-03-30,Blue Light Glasses,45,30
+2025-03-31,Blue Light Glasses,57,37
+2025-04-01,Blue Light Glasses,58,73
+2025-04-02,Blue Light Glasses,44,78
+2025-04-03,Blue Light Glasses,55,70
+2025-04-04,Blue Light Glasses,46,13
+2025-04-05,Blue Light Glasses,46,73
+2025-04-06,Blue Light Glasses,44,26
+2025-04-07,Blue Light Glasses,55,39
+2025-04-08,Blue Light Glasses,56,55
+2025-04-09,Blue Light Glasses,48,15
+2025-04-10,Blue Light Glasses,46,46
+2025-01-01,Lens Case,50,55
+2025-01-02,Lens Case,42,69
+2025-01-03,Lens Case,38,72
+2025-01-04,Lens Case,50,94
+2025-01-05,Lens Case,44,42
+2025-01-06,Lens Case,40,27
+2025-01-07,Lens Case,46,63
+2025-01-08,Lens Case,47,76
+2025-01-09,Lens Case,45,55
+2025-01-10,Lens Case,45,41
+2025-01-11,Lens Case,52,95
+2025-01-12,Lens Case,44,75
+2025-01-13,Lens Case,52,36
+2025-01-14,Lens Case,47,11
+2025-01-15,Lens Case,47,26
+2025-01-16,Lens Case,45,42
+2025-01-17,Lens Case,46,52
+2025-01-18,Lens Case,43,57
+2025-01-19,Lens Case,44,51
+2025-01-20,Lens Case,44,35
+2025-01-21,Lens Case,40,59
+2025-01-22,Lens Case,46,33
+2025-01-23,Lens Case,50,69
+2025-01-24,Lens Case,47,16
+2025-01-25,Lens Case,46,45
+2025-01-26,Lens Case,50,29
+2025-01-27,Lens Case,38,17
+2025-01-28,Lens Case,51,25
+2025-01-29,Lens Case,51,85
+2025-01-30,Lens Case,40,96
+2025-01-31,Lens Case,52,75
+2025-02-01,Lens Case,44,72
+2025-02-02,Lens Case,43,60
+2025-02-03,Lens Case,46,67
+2025-02-04,Lens Case,52,71
+2025-02-05,Lens Case,50,31
+2025-02-06,Lens Case,47,67
+2025-02-07,Lens Case,43,58
+2025-02-08,Lens Case,41,51
+2025-02-09,Lens Case,43,24
+2025-02-10,Lens Case,43,69
+2025-02-11,Lens Case,42,17
+2025-02-12,Lens Case,42,69
+2025-02-13,Lens Case,49,14
+2025-02-14,Lens Case,44,77
+2025-02-15,Lens Case,43,56
+2025-02-16,Lens Case,40,64
+2025-02-17,Lens Case,45,61
+2025-02-18,Lens Case,50,39
+2025-02-19,Lens Case,40,26
+2025-02-20,Lens Case,45,72
+2025-02-21,Lens Case,40,67
+2025-02-22,Lens Case,44,99
+2025-02-23,Lens Case,42,99
+2025-02-24,Lens Case,42,71
+2025-02-25,Lens Case,44,18
+2025-02-26,Lens Case,49,10
+2025-02-27,Lens Case,47,10
+2025-02-28,Lens Case,52,43
+2025-03-01,Lens Case,51,57
+2025-03-02,Lens Case,46,10
+2025-03-03,Lens Case,50,73
+2025-03-04,Lens Case,52,78
+2025-03-05,Lens Case,43,76
+2025-03-06,Lens Case,49,35
+2025-03-07,Lens Case,40,95
+2025-03-08,Lens Case,46,38
+2025-03-09,Lens Case,51,78
+2025-03-10,Lens Case,52,71
+2025-03-11,Lens Case,41,78
+2025-03-12,Lens Case,49,25
+2025-03-13,Lens Case,47,99
+2025-03-14,Lens Case,42,48
+2025-03-15,Lens Case,41,42
+2025-03-16,Lens Case,51,32
+2025-03-17,Lens Case,47,19
+2025-03-18,Lens Case,43,78
+2025-03-19,Lens Case,41,43
+2025-03-20,Lens Case,41,19
+2025-03-21,Lens Case,47,28
+2025-03-22,Lens Case,47,10
+2025-03-23,Lens Case,45,78
+2025-03-24,Lens Case,50,13
+2025-03-25,Lens Case,45,89
+2025-03-26,Lens Case,44,11
+2025-03-27,Lens Case,38,41
+2025-03-28,Lens Case,48,93
+2025-03-29,Lens Case,45,21
+2025-03-30,Lens Case,39,44
+2025-03-31,Lens Case,49,42
+2025-04-01,Lens Case,38,70
+2025-04-02,Lens Case,40,52
+2025-04-03,Lens Case,42,21
+2025-04-04,Lens Case,40,74
+2025-04-05,Lens Case,38,49
+2025-04-06,Lens Case,47,52
+2025-04-07,Lens Case,49,38
+2025-04-08,Lens Case,50,21
+2025-04-09,Lens Case,52,55
+2025-04-10,Lens Case,39,44
